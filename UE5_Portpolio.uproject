@@ -25,6 +25,11 @@
 		{
 			"Name": "AvidDNxMedia",
 			"Enabled": true
+		},
+		{
+			"Name": "TFlow",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3b5dd569bbf24f019e1451a1b2d75d19"
 		}
 	]
 }
